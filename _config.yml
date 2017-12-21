@@ -1,4 +1,4 @@
 name: "Steven Ranney"
-markdown: kramdown
+markdown: markdown_github
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-midnight
