@@ -2,7 +2,7 @@
 layout: default
 ---
 
-See the things you *really* want to see at _[www.stevenranney.com](http://www.stevenranney.com)_.
+See the things you *really* want to see at **[www.stevenranney.com](http://www.stevenranney.com)**.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
