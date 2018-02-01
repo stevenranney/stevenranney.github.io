@@ -2,5 +2,5 @@ name: "Steven Ranney"
 description: Another web presence.
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: #jekyll-theme-minimal
+theme: 
 show_downloads: true
