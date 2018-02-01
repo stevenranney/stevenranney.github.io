@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 **Publications**
 
-[Link to another page](another-page).
+[Link to about page](about).
 
 There should be whitespace between paragraphs.
 
