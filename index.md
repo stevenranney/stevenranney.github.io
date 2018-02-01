@@ -2,6 +2,8 @@
 layout: default
 ---
 
+See the things you *really* want to see at _[www.stevenranney.com](http://www.stevenranney.com)_.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 **Publications**
