@@ -1,4 +1,6 @@
-name: "Steven Ranney"
+title: Steven H. Ranney
+description: Another web presence.
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
+show_downloads: true
