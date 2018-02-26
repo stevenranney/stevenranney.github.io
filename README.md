@@ -2,10 +2,10 @@
 
 ## Papers in progress
 
-* [waeQuantiles](https://stevenranney.github.io/waeQuantiles)
-* [fishStomachContents](https://stevenranney.github.io/fishStomachContents)
+* [waeQuantiles](/waeQuantiles)
+* [fishStomachContents](/fishStomachContents)
 
 ## Software
 
-* [AnglerCreelSurveySimulation](https://stevenranney.github.io/AnglerCreelSurveySimulation)
+* [AnglerCreelSurveySimulation](/AnglerCreelSurveySimulation)
 
