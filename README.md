@@ -1,1 +1,11 @@
-See the things you *really* want to see at **[www.stevenranney.com](http://www.stevenranney.com)**.
+# Current worthwhile projects
+
+## Papers in progress
+
+* [waeQuantiles](stevenranney.github.io/waeQuantiles)
+* [fishStomachContents](stevenranney.github.io/fishStomachContents)
+
+## Software
+
+* [AnglerCreelSurveySimulation](stevenranney.github.io/AnglerCreelSurveySimulation)
+
