@@ -4,6 +4,7 @@
 
 * [waeQuantiles](/waeQuantiles)
 * [fishStomachContents](/fishStomachContents)
+* [jssCreelSurvey](/jssCreelSurvey)
 
 ## Software
 
