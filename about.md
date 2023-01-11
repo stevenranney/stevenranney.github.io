@@ -1,4 +1,4 @@
-# Steven H. Ranney
+# About
 
 Here! Here I am! 
 
