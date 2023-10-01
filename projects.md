@@ -10,7 +10,7 @@
 
 * [fishStomachContents](/fishStomachContents)
 * [jssCreelSurvey](/jssCreelSurvey)
-* madisonRiverFishery
+* [madisonRiverFishery](/angler_pressure)
 
 ## Software
 
