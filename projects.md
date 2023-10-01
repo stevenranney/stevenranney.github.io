@@ -1,5 +1,3 @@
-## Papers
-
 ### Recently published
 
 * improvingBioenergeticsModels
