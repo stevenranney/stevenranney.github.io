@@ -1,5 +1,3 @@
-# Projects
-
 ## Papers
 
 ### Recently published
