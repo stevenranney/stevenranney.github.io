@@ -1,4 +1,3 @@
-# Projects
 
 ### Recently published
 
@@ -15,7 +14,3 @@
 ## Software
 
 * [AnglerCreelSurveySimulation](/AnglerCreelSurveySimulation)
-
-
-
-[def]: /angler_pressure
