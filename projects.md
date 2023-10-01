@@ -4,13 +4,13 @@ I like to spend my free time outside, playing in the mountains, rivers, trails, 
 
 ### Published (date)
 
-* improvingBioenergeticsModels (2023)
-* [Quantile regression should replace analysis of relative weight (Wr) for most fisheries analyses](/waeQuantiles) (2018)
-* [Response to comment ] (2012)
-* [Ranney et al. 2008 ] 2008
-* [James et al] (2008)
-* [BOR research] (2008)
-* [Thesis ] (2008)
+* [improvingBioenergeticsModels (2023)]
+* [Quantile regression should replace analysis of relative weight (Wr) for most fisheries analyses (2018)](/waeQuantiles)
+* [Response to comment  (2012)]
+* [Ranney et al. (2008)] 
+* [James et al (2008)]
+* [BOR research (2008)]
+* [Thesis (2008)]
 
 ### In manuscript
 
