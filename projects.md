@@ -1,5 +1,4 @@
-
-## Current worthwhile projects
+# Projects
 
 ## Papers
 
