@@ -1,6 +1,6 @@
 # About
 
- ## Steven H. Ranney
+## Steven H. Ranney
 
 I am a classically-trained musician that has an MS in Wildlife and Fisheries Sciences from [South Dakota State University](www.sdstate.edu) and a BS in Biology from [Kennesaw State University](www.kennesaw.edu). I am a creative, quantitative individual that enjoys working with data, programming in Python and `R`, and building and learning new things. I consider myself to be a life-long learner and I like to have an open mind for new experiences, technologies, and opportunities.
 
