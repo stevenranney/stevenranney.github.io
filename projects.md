@@ -16,7 +16,7 @@ I like to spend my free time outside, playing in the mountains, rivers, trails, 
 
 * [fishStomachContents](/fishStomachContents)
 * [jssCreelSurvey](/jssCreelSurvey)
-* [madisonRiverFishery](/angler_pressure)
+* [madisonRiverFishery](https://github.com/stevenranney/angler_pressure)
 
 ### Software
 
