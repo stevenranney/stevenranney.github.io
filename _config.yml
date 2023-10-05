@@ -3,8 +3,8 @@ title: Steven H. Ranney
 description: >-
   Steven H. Ranney in Bozeman, MT, does things.
 baseurl: ""
-github_username: stevenranney
 instagram_username: allPrimes
+github_username: stevenranney
 theme: minima
 header_pages:
   - about.md
