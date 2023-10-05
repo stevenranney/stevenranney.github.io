@@ -29,4 +29,4 @@ Including Plots
 
 You can also embed plots, for example:
 
-![](test_files/figure-markdown_github/pressure-1.png)
+![](./test_files/figure-markdown_github/pressure-1.png)
