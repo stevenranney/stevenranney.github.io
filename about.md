@@ -7,7 +7,7 @@ In my free time, I enjoy flatpicking guitar and fingerstyle blues, playing with 
 
 ### Career Arc
 
-By education and experience, I am a quantitative scientist. Some of my past jobs have included (but are not limited to):
+By education and experience, I am a quantitative scientist. In chronological order, some of my past jobs have included (but are not limited to):
 
 * Research assistant at a northern Rocky Mountain university
 * Biometrician with a environmental and statistical consulting firm
