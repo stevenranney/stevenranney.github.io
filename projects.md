@@ -19,7 +19,7 @@ All of my publications thus far have been in the fisheries field. This makes sen
 
 * [fishStomachContents](/fishStomachContents)
 * [jssCreelSurvey](/jssCreelSurvey)
-* [madisonRiverFishery](https://github.com/stevenranney/angler_pressure)
+* [madisonRiverFishery](/angler_pressure)
 
 ### Software
 
