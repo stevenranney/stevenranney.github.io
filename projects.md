@@ -1,4 +1,5 @@
-# Projects
+Projects 
+========
 
 I like to spend my free time outside, playing in the mountains, rivers, trails, and skies around Bozeman and SW Montana. As a result, the bulk of what's below are "side proejcts" and publications, work I do as a labor of passion when the weather is bad and I can't play outside.
 
