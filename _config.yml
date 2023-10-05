@@ -4,6 +4,7 @@ description: >-
   Steven H. Ranney in Bozeman, MT, does things.
 baseurl: ""
 github_username: stevenranney
+instagram_username: allPrimes
 theme: minima
 header_pages:
   - about.md
