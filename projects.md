@@ -29,4 +29,6 @@ Although I'm not a software engineer, I do enjoy building reusable tools and thr
 
 ### Shiny apps
 
-* COMING SOON! Just need to rewrite and include links here.
+Did you know that `R` has a web interface? It's gotten better over the years but here's a few Shiny apps I built many moons ago. Most SHiny apps I've developed in recent years have been Docker-based and deployed to cloud providers. Neat what `R` can do, huh?
+
+[Shiny apps](/shinyApps)
