@@ -1,4 +1,9 @@
 title: Steven H. Ranney
+email: steven.ranney@gmail.com
+description: >-
+  Steven H. Ranney in Bozeman, MT, does things.
+baseurl: ""
+github_username: stevenranney
 theme: minima
 header_pages:
   - about.md
