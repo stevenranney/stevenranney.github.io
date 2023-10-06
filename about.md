@@ -13,7 +13,7 @@ By education and experience, I am a quantitative scientist. In chronological ord
 * Biometrician with a environmental and statistical consulting firm
 * Founder of an environmentally-focused startup 
 * Data science consultant for a financial and management consulting firm. 
-* Director of data science at a patient-focused healthcare firm undergoing a technology reannaissance 
+* Director of data science at a patient-focused healthcare firm undergoing a technology reannaissance, building infrastructure as code (IAC)
 * Senior data scientist at a big tech company (with whic you're *definitely* familiar)
 
 I’ve enjoyed all of the positions I’ve held. Indeed, I learned during my tenure as a biometrician that working with large data sets and discovering new things about those data sets was really what floated my boat. Combining that discovery mentality with my enjoyment of writing code, developing new products, and helping people learn new things and I work in a great industry.
