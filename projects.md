@@ -26,6 +26,7 @@ All of my publications thus far have been in the fisheries field. This makes sen
 
 Although I'm not a software engineer, I do enjoy building reusable tools and through my data science work, I've learned some of the principals of good software development. I also just building things. The Shiny section below helped me explore `R`'s Shiny framework with some extant data, along with webscraping, and some games of chance.
 
+* I serve on the board of a local non-profit and we need to be able to dynamically update our displayed calendar so our constituents could see upcoming events: [Fellowship Hall](/fh)
 * On CRAN: [AnglerCreelSurveySimulation](/AnglerCreelSurveySimulation)
 
 ### Shiny apps
