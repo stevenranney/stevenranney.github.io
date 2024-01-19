@@ -10,7 +10,7 @@ In my free time, I enjoy flatpicking guitar and fingerstyle blues, playing with 
 By education and experience, I am a quantitative scientist. In reverise chronological order, some of my past jobs have included (but are not limited to):
 
 * Senior data scientist at a big tech company (with which you're *definitely* familiar)
-* Director of data science at a patient-focused healthcare firm undergoing a technology reannaissance, building infrastructure as code (IAC)
+* Director of data science at a patient-focused healthcare firm undergoing a technology reannaissance, a great greenfield opp
 * Data science consultant for a financial and management consulting firm. 
 * Founder of an environmentally-focused startup 
 * Biometrician with a environmental and statistical consulting firm
