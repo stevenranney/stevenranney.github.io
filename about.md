@@ -7,14 +7,14 @@ In my free time, I enjoy flatpicking guitar and fingerstyle blues, playing with 
 
 ### Career Arc
 
-By education and experience, I am a quantitative scientist. In chronological order, some of my past jobs have included (but are not limited to):
+By education and experience, I am a quantitative scientist. In reverise chronological order, some of my past jobs have included (but are not limited to):
 
-* Research assistant at a northern Rocky Mountain university
-* Biometrician with a environmental and statistical consulting firm
-* Founder of an environmentally-focused startup 
-* Data science consultant for a financial and management consulting firm. 
+* Senior data scientist at a big tech company (with which you're *definitely* familiar)
 * Director of data science at a patient-focused healthcare firm undergoing a technology reannaissance, building infrastructure as code (IAC)
-* Senior data scientist at a big tech company (with whic you're *definitely* familiar)
+* Data science consultant for a financial and management consulting firm. 
+* Founder of an environmentally-focused startup 
+* Biometrician with a environmental and statistical consulting firm
+* Research assistant at a northern Rocky Mountain university
 
 I’ve enjoyed all of the positions I’ve held. Indeed, I learned during my tenure as a biometrician that working with large data sets and discovering new things about those data sets was really what floated my boat. Combining that discovery mentality with my enjoyment of writing code, developing new products, and helping people learn new things and I work in a great industry.
 
