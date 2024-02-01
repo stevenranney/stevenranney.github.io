@@ -12,7 +12,7 @@ All of my publications thus far have been in the fisheries field. This makes sen
 * [The regression-line percentile method still performs better than the empirical percentile method, even when we take into account additional information (Ranney et al. 2011)](/published/Ranney et al_2011_Ws2.pdf)
 * [Standard weight (Ws) equations and relative weight (Wr): Comparing the regression-line percentile and empirical percentile methods for calculating Ws equations (Ranney et al. 2010)](/published/Ranney et al_2010_Ws 1.pdf) 
 * [Macroinvertebrate composition in stream lengths affected by Didymospenia geminata, an invasive diatom (James et al. 2010)](/published/James et al_2010_Didymo.pdf)
-* [BOR research (2008)]
+* [BOR research (2008)](/published/Hayer et al_2008_BF and KH.pdf)
 * [Student reviewers (2008)]
 * [Thesis (2008)]
 
@@ -22,12 +22,12 @@ All of my publications thus far have been in the fisheries field. This makes sen
 * [jssCreelSurvey](/jssCreelSurvey)
 * [madisonRiverFishery](/madison_river_fisheries)
 
-### Software
+## Software
 
 Although I'm not a software engineer, I do enjoy building reusable tools and through working as a data scientist, I've learned many of the principals of good software development. I also just enjoy building things. The Shiny section below helped me explore `R`'s Shiny framework with some extant data, along with webscraping, and some games of chance.
 
-* I serve on the board of a local non-profit and we need to be able to dynamically update our displayed calendar so our constituents could see upcoming events: [Fellowship Hall](/fh)
 * On CRAN: [AnglerCreelSurveySimulation](/AnglerCreelSurveySimulation)
+* I serve on the board of a local non-profit and we need to be able to dynamically update our displayed calendar so our constituents could see upcoming events: [Fellowship Hall](/fh)
 
 ### Shiny apps
 
