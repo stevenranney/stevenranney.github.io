@@ -7,7 +7,7 @@ I like to spend my free time outside, playing in the mountains, rivers, trails, 
 
 All of my publications thus far have been in the fisheries field. This makes sense as academically, I’m a fisheries scientist.
 
-* [Incorporating growth-dependent metabolism into bioenergetics models can improve model accuracy and allow fisheries biologists to make more informed decisions regarding fish growth and energetics. (Ranney et al. 2023)](https://cdnsciencepub.com/doi/abs/10.1139/cjz-2023-0047)
+* [Incorporating growth-dependent metabolism into bioenergetics models can improve model accuracy and allow fisheries biologists to make more informed decisions regarding fish growth and energetics. (Ranney et al. 2023)](published/Ranney et al_2023_lmb respiration.pdf)
 * [Quantile regression should replace analysis of relative weight (Wr) for most fisheries analyses (Ranney 2018)](/waeQuantiles)
 * [The regression-line percentile method still performs better than the empirical percentile method, even when we take into account additional information (Ranney et al. 2011)](/published/Ranney et al_2011_Ws2.pdf)
 * [Standard weight (Ws) equations and relative weight (Wr): Comparing the regression-line percentile and empirical percentile methods for calculating Ws equations (Ranney et al. 2010)](/published/Ranney et al_2010_Ws 1.pdf) 
